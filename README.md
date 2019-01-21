@@ -5,3 +5,5 @@
 To run this app in node you need to install express and body-parser npm packages.
 
 * Check out the app at  https://friend-finder8.herokuapp.com/
+
+<img src="images/friendFinder.png" alt="Progect Picture" width="300" height="200" />
